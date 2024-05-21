@@ -1,2 +1,3 @@
 # open-stream
-Media Streaming Service
+
+Open-Soruce media streaming platform
