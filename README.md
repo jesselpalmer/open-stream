@@ -1,3 +1,3 @@
-# open-stream
+# OpenStream
 
 Open-Soruce media streaming platform
